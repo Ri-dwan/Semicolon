@@ -1,0 +1,7 @@
+Welcome.Java
+
+public class Welcome {
+public string void main(string[] args) {
+System.out.println("Welcome to java!");
+ }  
+ }

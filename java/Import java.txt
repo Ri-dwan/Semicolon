@@ -1,0 +1,19 @@
+Import java.util.System;
+
+Public class Sum {
+   public static void main(string[] args) {
+   Scanner input = new Scanner (System.In);
+ 	
+     System.out.print("Enter the first integer: ");
+     int number = input.nextIn();
+  	
+      System.out.print("Enter the second integer: ");
+      int number = input.nextIn();
+
+      int sum = number1 + number2;
+      System.out.prinf("sum is %d %n", sum);
+	}
+  }
+
+
+  
